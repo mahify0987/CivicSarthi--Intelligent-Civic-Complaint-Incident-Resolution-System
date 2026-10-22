@@ -1,7 +1,7 @@
 # CivicSarthi — Intelligent Civic Complaint & Incident Resolution System 
 
 > **CivicSarthi: Intelligent decision-support and civic incident resolution layer for grievance redressal systems.**  
-> *Tagline: "From Complaint to Resolution."*
+> *Tagline: "From Complaint to Resolution."* 
 
 ---
 
